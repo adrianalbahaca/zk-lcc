@@ -1,0 +1,9 @@
+- [ ] Pagar la laptop nueva
+- [ ] Tableta gráfica
+- [ ] Memoria RAM para laptop nueva
+- [ ] Lector de e-Books
+- [ ] Segunda memoria M.2 SSD para laptop nueva (512 GB a 1 TB)
+- [ ] Anillas de gimnasia
+- [ ] Cinto de StreetLifting
+- [ ] Laptop para mi mamá
+- [ ] Zapatos de halterofilia

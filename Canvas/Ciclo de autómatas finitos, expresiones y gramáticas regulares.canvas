@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"0b7c3921d1a0aabc","type":"text","text":"Expresiones regulares","x":-520,"y":-20,"width":250,"height":60},
+		{"id":"c23c92f5b38bf954","type":"text","text":"AEFND","x":140,"y":-20,"width":250,"height":60},
+		{"id":"390ba9894c7619b4","type":"text","text":"AEFD","x":-180,"y":-240,"width":250,"height":60},
+		{"id":"bc5b3deaeabcb6c1","type":"text","text":"AEFND-$\\epsilon$ ","x":-180,"y":220,"width":250,"height":50},
+		{"id":"2b8e7b5cc16317ed","type":"text","text":"Gramáticas regulares","x":360,"y":-380,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"d394ba11b21c425d","fromNode":"bc5b3deaeabcb6c1","fromSide":"right","toNode":"c23c92f5b38bf954","toSide":"bottom"},
+		{"id":"b75a1b0fb1468ae6","fromNode":"c23c92f5b38bf954","fromSide":"top","toNode":"390ba9894c7619b4","toSide":"right"},
+		{"id":"53176ce1bb5e6576","fromNode":"390ba9894c7619b4","fromSide":"left","toNode":"0b7c3921d1a0aabc","toSide":"top"},
+		{"id":"5cbda46f57cc064d","fromNode":"0b7c3921d1a0aabc","fromSide":"bottom","toNode":"bc5b3deaeabcb6c1","toSide":"left"},
+		{"id":"02a7222d46aa0b3e","fromNode":"2b8e7b5cc16317ed","fromSide":"left","toNode":"390ba9894c7619b4","toSide":"top"},
+		{"id":"63dffb3c4ca6c66c","fromNode":"2b8e7b5cc16317ed","fromSide":"bottom","toNode":"c23c92f5b38bf954","toSide":"right"},
+		{"id":"ce60a5c283724eac","fromNode":"390ba9894c7619b4","fromSide":"right","toNode":"c23c92f5b38bf954","toSide":"top"},
+		{"id":"33f15696f2ad9e4a","fromNode":"c23c92f5b38bf954","fromSide":"bottom","toNode":"bc5b3deaeabcb6c1","toSide":"right"},
+		{"id":"3ec541a2901d8e52","fromNode":"c23c92f5b38bf954","fromSide":"right","toNode":"2b8e7b5cc16317ed","toSide":"bottom"},
+		{"id":"977ef00ef7616b73","fromNode":"390ba9894c7619b4","fromSide":"top","toNode":"2b8e7b5cc16317ed","toSide":"left"}
+	]
+}

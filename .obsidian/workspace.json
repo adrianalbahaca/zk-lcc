@@ -1,0 +1,276 @@
+{
+  "main": {
+    "id": "e306a871a6e3a8ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "2122ac653eca3fa3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3c2252d510e3e23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Plantillas/Nota de Materia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nota de Materia"
+            }
+          },
+          {
+            "id": "017ea39d4e9bb909",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Notas Permanentes/Lema del bombeo en lenguajes independientes de contexto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lema del bombeo en lenguajes independientes de contexto"
+            }
+          },
+          {
+            "id": "f0a399ada188c8f1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "415e831e2c7e8a2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e23e8e6c8942d8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ad4bc5845a3eeb7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "83523f4b87229175",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "algoritmo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "164719724c0615cc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 285.5
+  },
+  "right": {
+    "id": "653d16b1e6f2d816",
+    "type": "split",
+    "children": [
+      {
+        "id": "8584518931c95b14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1a23aadd299a86d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Esta es mi primera nota con Obsibian.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Esta es mi primera nota con Obsibian"
+            }
+          },
+          {
+            "id": "ef79b99e4eb89ad1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Esta es mi primera nota con Obsibian.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Esta es mi primera nota con Obsibian"
+            }
+          },
+          {
+            "id": "114e5aa7449b8581",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "5a263bcdc6902c7a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "6c7a742c698841b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Esta es mi primera nota con Obsibian.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Esta es mi primera nota con Obsibian"
+            }
+          },
+          {
+            "id": "41b751ebbf098226",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "81a36836cfb1dd8e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "81a36836cfb1dd8e",
+  "lastOpenFiles": [
+    "Zettelkasten/Notas Permanentes/Lema del bombeo en lenguajes independientes de contexto.md",
+    "Zettelkasten/Notas Permanentes/Límite del Lenguaje Independiente del Contexto.md",
+    "Zettelkasten/Plantillas/Nota de Materia.md",
+    "Zettelkasten/Notas Permanentes/Propiedad Reproductiva.md",
+    "Zettelkasten/Notas Permanentes/Programación funcional.md",
+    "Zettelkasten/Notas Permanentes/Teoría Moderna de la Probabilidad.md",
+    "Zettelkasten/Notas Permanentes/Todo grafo conexo tiene un árbol recubridor.md",
+    "Zettelkasten/Notas Permanentes/Turing y su mentalidad para crear sus máquinas.md",
+    "Zettelkasten/Notas Permanentes/Técnicas de Recolección de datos.md",
+    "Zettelkasten/Notas Permanentes/Inducción mal hecha.md",
+    "Zettelkasten/Notas Permanentes/Inducción débil.md",
+    "Zettelkasten/Notas Permanentes/Hilos o Threads.md",
+    "Zettelkasten/Notas Permanentes/Gramática sensible al contexto.md",
+    "Zettelkasten/Notas Permanentes/Gramática del lenguaje de Romeo.md",
+    "Zettelkasten/Notas Permanentes/Grado mínimo y rel. con ciclos y caminos.md",
+    "Zettelkasten/Notas Permanentes/Def. Dato en Estadística.md",
+    "Zettelkasten/Notas Permanentes/Cardinalidad.md",
+    "Zettelkasten/Notas Permanentes/Caracterización de recorridos eulerianos.md",
+    "Zettelkasten/Notas Permanentes/Aprox. de Binomial a Poisson.md",
+    "Zettelkasten/Notas Permanentes/Analizador sintáctico.md",
+    "Zettelkasten/Notas Permanentes/Algoritmo de Dijkstra.md",
+    "Zettelkasten/Notas Permanentes/Lenguaje independiente del contexto.md",
+    "Zettelkasten/Notas Permanentes/Lambda cálculo.md",
+    "Nota atómica.md",
+    "Zettelkasten/Plantillas/Nota de Clase.md",
+    "Zettelkasten/Plantillas/Nota Atómica.md",
+    "Canvas/Ciclo de autómatas finitos, expresiones y gramáticas regulares.canvas",
+    "Canvas",
+    "Adjuntos/Pasted image 20260415164452.png",
+    "Zettelkasten Universidad/Índices/Proyectos",
+    "Zettelkasten/Notas de proyectos",
+    "Adjuntos",
+    "Sin título.base",
+    "Zettelkasten/Notas de clase",
+    "Personal/Sin nombre",
+    "Zettelkasten/Índices",
+    "Berlitz/Días",
+    "Zettelkasten/Plantillas",
+    "Pasted image 20260203131656.png",
+    "Pasted image 20260112185109.png"
+  ]
+}

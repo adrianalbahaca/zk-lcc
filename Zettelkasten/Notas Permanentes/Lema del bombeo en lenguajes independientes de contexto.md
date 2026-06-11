@@ -1,7 +1,7 @@
 ---
 id: 202606110842
 fecha: 11-06-2026
-estado: borrador
+estado: pendiente
 tags:
   - LFyC
 ---
@@ -19,7 +19,7 @@ El objetivo de su demo. es ver que existe una propiedad que los LIC cumplen, par
 >Considera el árbol $t$ de $\alpha$. Su profundidad es, al menos, $n$, o en otras palabras $Prof(t) \ge n$ . Eso indica que hay un camino de no terminales hasta una hoja, aparecerá más de $k$ símbolos, pero sólo hay $n$ no terminales. Por *principio de palomar*, **debe de haber un no terminal que se repita**
 >En el subárbol donde ocurre esto, se denomina los extremos: $s$ es la trama del subárbol izquierdo de $\sigma$, $v$ es la trama del subárbol izquierdo de la primera representación del $N$ no terminal, $u$ es el punto medio de la segunda representación de $N$, $w$ es la trama del subárbol derecho de la primera representación de $N$ y $t$ es la trama del subárbol derecho de $\sigma$ 
 >La palabra $\alpha$ queda como $svuwt = \beta_1 \gamma_1 N \gamma_2 \beta_2$
->
+> (Completar)
 
 Quiere decir que el subárbol $N$ se puede copiar cuantas veces se quiera, siendo capaz de generar $s(v^n)u(w^n)t, n \in \mathbb{N}$ 
 

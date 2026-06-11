@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"105ca1b2db91669d","x":-360,"y":-220,"width":250,"height":60,"type":"text","text":"Máquinas de Turing"},
+		{"id":"aefd8ac2b9d3c619","x":120,"y":-220,"width":250,"height":60,"type":"text","text":"Funciones Recursivas"},
+		{"id":"28ff2d01fe318a3e","x":120,"y":130,"width":250,"height":60,"type":"text","text":"Programa hecho en C"},
+		{"id":"e00cb2eaf44db319","x":-360,"y":130,"width":250,"height":60,"type":"text","text":"Algún lenguaje cualquiera"}
+	],
+	"edges":[
+		{"id":"a8854da63dc5cf78","fromNode":"105ca1b2db91669d","fromSide":"right","toNode":"aefd8ac2b9d3c619","toSide":"left"},
+		{"id":"a72b9480c3e6decc","fromNode":"aefd8ac2b9d3c619","fromSide":"bottom","toNode":"28ff2d01fe318a3e","toSide":"top"},
+		{"id":"341c646967186864","fromNode":"aefd8ac2b9d3c619","fromSide":"left","toNode":"105ca1b2db91669d","toSide":"right"},
+		{"id":"081b3254bcab34f6","fromNode":"aefd8ac2b9d3c619","fromSide":"bottom","toNode":"28ff2d01fe318a3e","toSide":"top"},
+		{"id":"9f3e58ea5becae86","fromNode":"28ff2d01fe318a3e","fromSide":"top","toNode":"aefd8ac2b9d3c619","toSide":"bottom"},
+		{"id":"2ecc3fe4bd9217ae","fromNode":"28ff2d01fe318a3e","fromSide":"left","toNode":"e00cb2eaf44db319","toSide":"right"},
+		{"id":"a4ad9e0b794fc095","fromNode":"e00cb2eaf44db319","fromSide":"top","toNode":"105ca1b2db91669d","toSide":"bottom"},
+		{"id":"cf46dcd704505630","fromNode":"105ca1b2db91669d","fromSide":"bottom","toNode":"e00cb2eaf44db319","toSide":"top"}
+	]
+}

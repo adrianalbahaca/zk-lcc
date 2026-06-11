@@ -11,10 +11,31 @@
             "id": "f4902464097b62ae",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Notas Permanentes/Máquina de Turing.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Máquina de Turing"
+            }
+          },
+          {
+            "id": "3dcbba64bfb36e46",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Canvas/Gráfico de relación de MT con otros lenguajes y sistemas.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Gráfico de relación de MT con otros lenguajes y sistemas"
             }
           }
         ]
@@ -203,6 +224,8 @@
   },
   "active": "f4902464097b62ae",
   "lastOpenFiles": [
+    "Canvas/Gráfico de relación de MT con otros lenguajes y sistemas.canvas",
+    "Zettelkasten/Notas Permanentes/Máquina de Turing.md",
     "Zettelkasten/Plantillas/Nota de Materia.md",
     "Zettelkasten/Notas Permanentes/Lema del bombeo en lenguajes independientes de contexto.md",
     "Zettelkasten/Notas Permanentes/Límite del Lenguaje Independiente del Contexto.md",
@@ -227,8 +250,6 @@
     "Zettelkasten/Notas Permanentes/Lenguaje independiente del contexto.md",
     "Zettelkasten/Notas Permanentes/Lambda cálculo.md",
     "Nota atómica.md",
-    "Zettelkasten/Plantillas/Nota de Clase.md",
-    "Zettelkasten/Plantillas/Nota Atómica.md",
     "Canvas/Ciclo de autómatas finitos, expresiones y gramáticas regulares.canvas",
     "Canvas",
     "Adjuntos/Pasted image 20260415164452.png",

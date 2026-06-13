@@ -7,8 +7,8 @@
 - [[Distribución Geométrica]]
 - [[Distribución Hipergeométrica]]
 - [[Distribución Multinomial]]
-- [[Distribución normal]]
-- [[Distribución uniforme]]
+- [[Distribución Normal]]
+- [[Distribución Uniforme]]
 - [[Distribución Exponencial]]
 # Nota
 ---

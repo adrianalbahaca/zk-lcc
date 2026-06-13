@@ -19,5 +19,5 @@ En el caso de la dist. *Normal*, se suma $\mu_i$ y $\sigma_i$ cada uno para obte
 
 Es importante que *las variables sean independientes entre sí* para poder aplicar esta propiedad
 ## Conexiones
-- [[Distribución normal]]
+- [[Distribución Normal]]
 - [[Distribución de Poisson]]

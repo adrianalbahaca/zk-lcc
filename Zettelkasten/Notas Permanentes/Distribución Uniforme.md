@@ -26,6 +26,7 @@ F(x) = \begin{cases}
 \end{cases}
 $$
 Esperanza: $E(X)={{a+b}\over{2}}$ 
-Desvío estándar: 
+Desvío estándar: $V(x)={{(b-a)^2}\over{12}}$ 
+
 ## Conexiones
 - [[]] 

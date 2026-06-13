@@ -19,8 +19,9 @@ De esta manera, el cálculo de las probabilidades en un rango, se reduce a cálc
 ## Conexiones
 - [[Función de densidad de probabilidad]]
 - [[Probabilidad en variables aleatorias continuas]]
-- [[Zettelkasten/Notas Permanentes/Función de distribución acumulada]]
+- [[Función de distribución acumulada]]
 - [[Fórmulas del cálculo de probabilidades en variables aleatorias continuas]]
-- [[Distribución uniforme]]
+- [[Distribución Uniforme]]
 - [[Distribución Exponencial]]
-- [[Distribución normal]]
+- [[Distribución Normal]]
+- [[Sucesos continuos equivalentes]]

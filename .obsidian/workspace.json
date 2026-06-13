@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Notas Permanentes/Propiedad Reproductiva.md",
+                "file": "Zettelkasten/Notas Permanentes/Variable aleatoria continua.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Propiedad Reproductiva"
+              "title": "Variable aleatoria continua"
             }
           }
         ],
@@ -236,6 +236,16 @@
   },
   "active": "2267cbde876fe014",
   "lastOpenFiles": [
+    "Zettelkasten/Notas Permanentes/Distribución Normal.md",
+    "Zettelkasten/Notas Permanentes/Sucesos continuos equivalentes.md",
+    "Zettelkasten/Notas Permanentes/Variable aleatoria continua.md",
+    "Zettelkasten/Notas Permanentes/De dist. normal a normal estandarizada.md",
+    "Zettelkasten/Notas Permanentes/Distribución Uniforme.md",
+    "Zettelkasten/Notas Permanentes/Fórmulas del cálculo de probabilidades en variables aleatorias continuas.md",
+    "Zettelkasten/Notas Permanentes/Función de distribución acumulada.md",
+    "Zettelkasten/Notas Permanentes/Función de densidad de probabilidad.md",
+    "Zettelkasten/Índices/PyE.md",
+    "Zettelkasten/Notas Permanentes/Propiedad Reproductiva.md",
     "Zettelkasten/Notas Permanentes/Distribución de Poisson.md",
     "Zettelkasten/Notas Permanentes/Distribución Binomial.md",
     "Canvas/Gráfico de relación de MT con otros lenguajes y sistemas.canvas",
@@ -243,7 +253,6 @@
     "Zettelkasten/Plantillas/Nota de Materia.md",
     "Zettelkasten/Notas Permanentes/Lema del bombeo en lenguajes independientes de contexto.md",
     "Zettelkasten/Notas Permanentes/Límite del Lenguaje Independiente del Contexto.md",
-    "Zettelkasten/Notas Permanentes/Propiedad Reproductiva.md",
     "Zettelkasten/Notas Permanentes/Programación funcional.md",
     "Zettelkasten/Notas Permanentes/Teoría Moderna de la Probabilidad.md",
     "Zettelkasten/Notas Permanentes/Todo grafo conexo tiene un árbol recubridor.md",
@@ -254,15 +263,6 @@
     "Zettelkasten/Notas Permanentes/Hilos o Threads.md",
     "Zettelkasten/Notas Permanentes/Gramática sensible al contexto.md",
     "Zettelkasten/Notas Permanentes/Gramática del lenguaje de Romeo.md",
-    "Zettelkasten/Notas Permanentes/Grado mínimo y rel. con ciclos y caminos.md",
-    "Zettelkasten/Notas Permanentes/Def. Dato en Estadística.md",
-    "Zettelkasten/Notas Permanentes/Cardinalidad.md",
-    "Zettelkasten/Notas Permanentes/Caracterización de recorridos eulerianos.md",
-    "Zettelkasten/Notas Permanentes/Aprox. de Binomial a Poisson.md",
-    "Zettelkasten/Notas Permanentes/Analizador sintáctico.md",
-    "Zettelkasten/Notas Permanentes/Algoritmo de Dijkstra.md",
-    "Zettelkasten/Notas Permanentes/Lenguaje independiente del contexto.md",
-    "Zettelkasten/Notas Permanentes/Lambda cálculo.md",
     "Canvas/Ciclo de autómatas finitos, expresiones y gramáticas regulares.canvas",
     "Canvas",
     "Adjuntos/Pasted image 20260415164452.png",

@@ -11,7 +11,7 @@ tags:
 > Traspasar una variable $X \sim N(\mu, \sigma)$ a $Z \sim N(\mu, sigma)$ involucra representar $Z = {{X-\mu}\over{\sigma}}$ 
 ## Desarrollo
 ---
-Si se tiene que $X \sim N(\mu, \sigma)$, por la naturaleza de la función, calcular su probabilidad a partir de la integral es algo que no se puede hacer tan fácilmente, por lo que, se normaliza la operación para que quede una variable aleatoria $Z \sim N(0, 1)$
+Si se tiene que $X \sim N(\mu, \sigma)$, por la naturaleza de la función y su integral asociada, calcular su probabilidad a partir de la integral es algo que no se puede hacer tan fácilmente, por lo que, se normaliza la operación para que quede una variable aleatoria $Z \sim N(0, 1)$
 
 Para esto, en la variable aleatoria, se hace la siguiente operación:
 $$

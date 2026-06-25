@@ -12,7 +12,7 @@ tags:
 ## Desarrollo
 ---
 Una función *suave* tiene la característica de que no "salta" mucho entre iteraciones. No explota sin parar hacia arriba, ni hace curvas raras de coste
-Funciones así son más fáciles para determinar sus cotas asintóticas usando el *Teorema maestro* u otras herramientas
+Funciones así son más fáciles para determinar sus cotas asintóticas usando el *Teorema maestro* u otras herramientas, ya que permiten simplificar el piso y el techo
 ## Conexiones
 - [[Funciones eventualmente no decrecientes]]
 - [[Teorema Maestro]]

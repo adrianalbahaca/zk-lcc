@@ -9,6 +9,7 @@
 - [[Semáforos]]
 - [[Monitores]]
 - [[Barreras]]
+- [[Variables de condición]]
 # Referencias
 ---
 # Parciales

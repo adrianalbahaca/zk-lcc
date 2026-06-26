@@ -21,9 +21,11 @@ Hay unas consecuencias dadas de esta definición
 - Al inicializar, se puede empezar con un valor positivo para permitir ciertos hilos que pasen, o un valor negativo (Como una *barrera*), para que se bloqueen cierta cantidad de hilos a incrementar hasta que se llegue a algo mayor a cero y se continue todos a la vez
 Esta herramienta permite resolver varios problemas planteados
 ## Conexiones
+- [[Deadlock y Livelock]]
 - [[Problema de la barbería]]
 - [[Problema de los productores y consumidores]]
 - [[Problema de los lectores y escritores]]
 - [[Diferencias entre semáforos y var. condición]]
-- [[Variables de condición]]
-- [[Barreras]]
+- [[Problema de los filósofos]]
+- [[Algoritmo de Peterson]]
+- [[Algoritmo de la Panadería]]

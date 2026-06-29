@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -262,12 +262,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ce760d7feaaacb1f",
+  "active": "ed3e1cf3ffa3f394",
   "lastOpenFiles": [
+    "Zettelkasten/Notas Permanentes/Semáforos con variables de condición.md",
     "Zettelkasten/Notas Permanentes/Paradojas comúnes con semáforos.md",
+    "Zettelkasten/Notas Permanentes/Variables de condición con semáforos.md",
+    "Zettelkasten/Notas Permanentes/Problema de los fumadores.md",
     "Zettelkasten/Notas Permanentes/Problema de la barbería.md",
     "Zettelkasten/Notas Permanentes/Rendez-vous.md",
-    "Zettelkasten/Notas Permanentes/Problema de los fumadores.md",
     "Zettelkasten/Notas Permanentes/Problema de los lectores y escritores.md",
     "Zettelkasten/Notas Permanentes/Problema de los filósofos.md",
     "Zettelkasten/Notas Permanentes/Problema de los productores y consumidores.md",
@@ -288,8 +290,6 @@
     "Zettelkasten/Índices/EDyAII.md",
     "Zettelkasten/Notas Permanentes/Funciones suaves.md",
     "Zettelkasten/Notas Permanentes/Variable aleatoria continua.md",
-    "Zettelkasten/Notas Permanentes/Distribución Normal.md",
-    "Zettelkasten/Notas Permanentes/Sucesos continuos equivalentes.md",
     "Canvas/Gráfico de relación de MT con otros lenguajes y sistemas.canvas",
     "Canvas/Ciclo de autómatas finitos, expresiones y gramáticas regulares.canvas",
     "Canvas",

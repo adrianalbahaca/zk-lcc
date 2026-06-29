@@ -18,7 +18,7 @@ Esto permite el evitar el *busy waiting*, bloqueando a nivel del sistema sin pro
 Es especialmente útil en el *Problema de productor - consumidor* o en el *Thread Pool*
 
 Proceso de uso:
-`Mutex -> while() -> cond_wait(&cond, &mutex) -> Región crítica -> unlock -> Signal de chequeo` <- Ya que nada me garantiza de que se cumpla
+`Mutex -> while() -> cond_wait(&cond, &mutex) -> Región crítica -> unlock -> Signal de chequeo` <- Ya que nada me garantiza de que se cumpla (Semántica de Mesa)
 
 Lógica usada: **Lógica de Mesa**, pero también se puede pensar como Lógica de Hoare
 ## Conexiones

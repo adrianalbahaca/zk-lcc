@@ -22,6 +22,7 @@ Hay unas consecuencias dadas de esta definición
 Esta herramienta permite resolver varios problemas planteados
 ## Conexiones
 - [[Deadlock y Livelock]]
+- [[Herramientas con semáforos]]
 - [[Problema de la barbería]]
 - [[Problema de los productores y consumidores]]
 - [[Problema de los lectores y escritores]]

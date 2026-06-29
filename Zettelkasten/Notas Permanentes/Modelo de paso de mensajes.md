@@ -1,7 +1,7 @@
 ---
 id: 202605191401
 fecha: 19-05-2026
-estado: borrador
+estado: completo
 tags:
   - SistOpI
 ---

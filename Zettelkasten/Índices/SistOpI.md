@@ -10,6 +10,9 @@
 - [[Monitores]]
 - [[Barreras]]
 - [[Variables de condición]]
+- [[Computación paralela]]
+- [[Computación Distribuida]]
+- [[Semantica de Hoare y de Mesa]]
 # Referencias
 ---
 # Parciales

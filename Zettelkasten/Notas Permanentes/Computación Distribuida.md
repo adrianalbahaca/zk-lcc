@@ -5,7 +5,7 @@ estado: completo
 tags:
   - SistOpI
 ---
-# Def. y beneficios de computación distribuida
+# Computación distribuida y MPI/Erlang
 ## La idea en una oración
 ---
 >  La computación distribuida es un modelo de computación con múltiples computadoras interconectadas para resolver un problema complejo 

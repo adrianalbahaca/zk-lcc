@@ -34,9 +34,51 @@
               "icon": "lucide-file",
               "title": "Paradojas comúnes con semáforos"
             }
+          },
+          {
+            "id": "ce760d7feaaacb1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Notas Permanentes/Problema de los fumadores.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Problema de los fumadores"
+            }
+          },
+          {
+            "id": "7d6fcd7e2e7e8a8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Notas Permanentes/Rendez-vous.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rendez-vous"
+            }
+          },
+          {
+            "id": "52f0068ef2ce96c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Notas Permanentes/Problema de los fumadores.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Problema de los fumadores"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -220,23 +262,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed3e1cf3ffa3f394",
+  "active": "ce760d7feaaacb1f",
   "lastOpenFiles": [
-    "Zettelkasten/Notas Permanentes/Problema de los productores y consumidores.md",
     "Zettelkasten/Notas Permanentes/Paradojas comúnes con semáforos.md",
+    "Zettelkasten/Notas Permanentes/Problema de la barbería.md",
+    "Zettelkasten/Notas Permanentes/Rendez-vous.md",
+    "Zettelkasten/Notas Permanentes/Problema de los fumadores.md",
+    "Zettelkasten/Notas Permanentes/Problema de los lectores y escritores.md",
+    "Zettelkasten/Notas Permanentes/Problema de los filósofos.md",
+    "Zettelkasten/Notas Permanentes/Problema de los productores y consumidores.md",
     "Zettelkasten/Notas Permanentes/Semáforos.md",
     "Zettelkasten/Notas Permanentes/Herramientas con semáforos.md",
     "Zettelkasten/Notas Permanentes/Multiplex.md",
     "Zettelkasten/Notas Permanentes/Mutex.md",
-    "Zettelkasten/Notas Permanentes/Rendez-vous.md",
     "Zettelkasten/Notas Permanentes/Barbero dormilón.md",
     "Zettelkasten/Notas Permanentes/Recorrido FIFO.md",
     "Zettelkasten/Notas Permanentes/Agentes proxy.md",
     "Zettelkasten/Notas Permanentes/Turnstile.md",
     "Zettelkasten/Notas Permanentes/Light Switch.md",
     "Zettelkasten/Notas Permanentes/Barreras.md",
-    "Zettelkasten/Notas Permanentes/Problema de la barbería.md",
-    "Zettelkasten/Notas Permanentes/Problema de los lectores y escritores.md",
     "Zettelkasten/Notas Permanentes/Deadlock y Livelock.md",
     "Zettelkasten/Índices/SistOpI.md",
     "Zettelkasten/Notas Permanentes/Teorema Maestro.md",
@@ -246,8 +290,6 @@
     "Zettelkasten/Notas Permanentes/Variable aleatoria continua.md",
     "Zettelkasten/Notas Permanentes/Distribución Normal.md",
     "Zettelkasten/Notas Permanentes/Sucesos continuos equivalentes.md",
-    "Zettelkasten/Notas Permanentes/De dist. normal a normal estandarizada.md",
-    "Zettelkasten/Notas Permanentes/Distribución Uniforme.md",
     "Canvas/Gráfico de relación de MT con otros lenguajes y sistemas.canvas",
     "Canvas/Ciclo de autómatas finitos, expresiones y gramáticas regulares.canvas",
     "Canvas",

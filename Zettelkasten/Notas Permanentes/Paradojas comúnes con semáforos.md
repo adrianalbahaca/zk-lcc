@@ -14,5 +14,6 @@ tags:
 - [[Problema de los filósofos]]
 - [[Problema de los lectores y escritores]]
 - [[Problema de la barbería]]
+- [[Problema de los fumadores]]
 - [[Variables de condición con semáforos]]
 - [[Semáforos con variables de condición]]

@@ -22,87 +22,17 @@
             }
           },
           {
-            "id": "9637feca47d0275e",
+            "id": "ed3e1cf3ffa3f394",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Notas Permanentes/Herramientas con semáforos.md",
+                "file": "Zettelkasten/Notas Permanentes/Paradojas comúnes con semáforos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Herramientas con semáforos"
-            }
-          },
-          {
-            "id": "bb7fbb3f69e8c924",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Notas Permanentes/Multiplex.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Multiplex"
-            }
-          },
-          {
-            "id": "8c0860deceb01d70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Notas Permanentes/Mutex.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mutex"
-            }
-          },
-          {
-            "id": "5629e5b153344982",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Notas Permanentes/Light Switch.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Light Switch"
-            }
-          },
-          {
-            "id": "2064a6cfc7d4c22c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Notas Permanentes/Barreras.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Barreras"
-            }
-          },
-          {
-            "id": "eed65399ba8032c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Notas Permanentes/Deadlock y Livelock.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Deadlock y Livelock"
+              "title": "Paradojas comúnes con semáforos"
             }
           }
         ],
@@ -290,10 +220,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9637feca47d0275e",
+  "active": "ed3e1cf3ffa3f394",
   "lastOpenFiles": [
-    "Zettelkasten/Notas Permanentes/Multiplex.md",
+    "Zettelkasten/Notas Permanentes/Problema de los productores y consumidores.md",
+    "Zettelkasten/Notas Permanentes/Paradojas comúnes con semáforos.md",
+    "Zettelkasten/Notas Permanentes/Semáforos.md",
     "Zettelkasten/Notas Permanentes/Herramientas con semáforos.md",
+    "Zettelkasten/Notas Permanentes/Multiplex.md",
     "Zettelkasten/Notas Permanentes/Mutex.md",
     "Zettelkasten/Notas Permanentes/Rendez-vous.md",
     "Zettelkasten/Notas Permanentes/Barbero dormilón.md",
@@ -301,10 +234,8 @@
     "Zettelkasten/Notas Permanentes/Agentes proxy.md",
     "Zettelkasten/Notas Permanentes/Turnstile.md",
     "Zettelkasten/Notas Permanentes/Light Switch.md",
-    "Zettelkasten/Notas Permanentes/Semáforos.md",
     "Zettelkasten/Notas Permanentes/Barreras.md",
     "Zettelkasten/Notas Permanentes/Problema de la barbería.md",
-    "Zettelkasten/Notas Permanentes/Problema de los productores y consumidores.md",
     "Zettelkasten/Notas Permanentes/Problema de los lectores y escritores.md",
     "Zettelkasten/Notas Permanentes/Deadlock y Livelock.md",
     "Zettelkasten/Índices/SistOpI.md",
@@ -317,7 +248,6 @@
     "Zettelkasten/Notas Permanentes/Sucesos continuos equivalentes.md",
     "Zettelkasten/Notas Permanentes/De dist. normal a normal estandarizada.md",
     "Zettelkasten/Notas Permanentes/Distribución Uniforme.md",
-    "Zettelkasten/Notas Permanentes/Fórmulas del cálculo de probabilidades en variables aleatorias continuas.md",
     "Canvas/Gráfico de relación de MT con otros lenguajes y sistemas.canvas",
     "Canvas/Ciclo de autómatas finitos, expresiones y gramáticas regulares.canvas",
     "Canvas",

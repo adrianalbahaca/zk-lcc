@@ -23,10 +23,5 @@ Esta herramienta permite resolver varios problemas planteados
 ## Conexiones
 - [[Deadlock y Livelock]]
 - [[Herramientas con semáforos]]
-- [[Problema de la barbería]]
-- [[Problema de los productores y consumidores]]
-- [[Problema de los lectores y escritores]]
+- [[Paradojas comúnes con semáforos]]
 - [[Diferencias entre semáforos y var. condición]]
-- [[Problema de los filósofos]]
-- [[Algoritmo de Peterson]]
-- [[Algoritmo de la Panadería]]

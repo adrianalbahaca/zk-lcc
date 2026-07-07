@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Índices/SistOpI.md",
+                "file": "Zettelkasten/Notas Permanentes/Consecuencia semántica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SistOpI"
+              "title": "Consecuencia semántica"
             }
           }
         ]
@@ -207,8 +207,12 @@
   },
   "active": "a00a76c08b647cb4",
   "lastOpenFiles": [
-    "Zettelkasten/Notas Permanentes/Variables de condición.md",
+    "Zettelkasten/Notas Permanentes/Valuación.md",
+    "Zettelkasten/Notas Permanentes/Lógica proposicional.md",
+    "Zettelkasten/Notas Permanentes/Conjunto PROP.md",
+    "Zettelkasten/Índices/Lógica.md",
     "Zettelkasten/Índices/SistOpI.md",
+    "Zettelkasten/Notas Permanentes/Variables de condición.md",
     "Zettelkasten/Notas Permanentes/Monitores.md",
     "Zettelkasten/Notas Permanentes/Computación paralela.md",
     "Zettelkasten/Notas Permanentes/Semantica de Hoare y de Mesa.md",
@@ -229,10 +233,6 @@
     "Zettelkasten/Notas Permanentes/Herramientas con semáforos.md",
     "Zettelkasten/Notas Permanentes/Multiplex.md",
     "Zettelkasten/Notas Permanentes/Mutex.md",
-    "Zettelkasten/Notas Permanentes/Barbero dormilón.md",
-    "Zettelkasten/Notas Permanentes/Recorrido FIFO.md",
-    "Zettelkasten/Notas Permanentes/Agentes proxy.md",
-    "Zettelkasten/Notas Permanentes/Turnstile.md",
     "Canvas/Gráfico de relación de MT con otros lenguajes y sistemas.canvas",
     "Canvas/Ciclo de autómatas finitos, expresiones y gramáticas regulares.canvas",
     "Canvas",

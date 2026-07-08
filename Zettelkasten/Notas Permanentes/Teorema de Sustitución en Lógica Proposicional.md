@@ -1,7 +1,7 @@
 ---
 id: 202605231941
 fecha: 23-05-2026
-estado: borrador
+estado: pendiente
 tags:
   - Lógica
 ---

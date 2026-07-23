@@ -1,9 +1,9 @@
 {
-  "cssTheme": "Typewriter",
+  "cssTheme": "AnuPpuccin",
   "interfaceFontFamily": "",
   "textFontFamily": "Monocraft",
   "nativeMenus": true,
   "monospaceFontFamily": "Monocraft",
-  "theme": "system",
+  "theme": "obsidian",
   "accentColor": "#5cf57b"
 }

@@ -6,5 +6,9 @@
 [[Def. de Notación Omega]]
 [[Notación Asintótica]]
 [[Recurrencia]]
+[[Estructuras inmutables]]
+[[TAD]]
+[[Secuencias]]
+[[Estructuras paralelizables]]
 # Referencias
 ---

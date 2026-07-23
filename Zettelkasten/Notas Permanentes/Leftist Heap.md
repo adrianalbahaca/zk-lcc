@@ -40,4 +40,4 @@ merge h1@(N r1 a1 l1 r1) h2@(N r2 a2 l2 r2)
 			else N (rank a + 1) r b a
 ```
 ## Conexiones
-- [[]] 
+- [[Montículos]] 

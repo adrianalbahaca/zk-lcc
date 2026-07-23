@@ -14,5 +14,5 @@ Los heaps inmutables permiten conservar una versión anterior del mismo antes de
 
 Además, su programación suele ser más sencilla, notando la naturaleza recursiva del árbol binario que representa el heap
 ## Conexiones
-- [[Skew heaps]] 
+- [[Skew Heap]] 
 - [[Leftist Heap]]

@@ -24,4 +24,4 @@ Ahora, hay 3 precisiones. En todas, el primer bit se reserva como el bit de sign
 - Doble: 11 bits para el exponente, 52 bits para la mantisa
 - Cuádruple: (Completar)
 ## Conexiones
-- [[]] 
+- [[Patrones especiales de IEEE 754]] 

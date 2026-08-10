@@ -19,4 +19,6 @@ Es necesario definir convenciones sobre precendencia y asociatividad de operador
 
 Nuestro objetivo es evitar que el lenguaje sea *ambiguo*
 ## Conexiones
-- [[]] 
+- [[Árbol de parseo]]
+- [[Árbol de sintáxis abstracto]]
+- 

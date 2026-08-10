@@ -25,3 +25,4 @@ Ahora, hay 3 precisiones. En todas, el primer bit se reserva como el bit de sign
 - Cuádruple: (Completar)
 ## Conexiones
 - [[Patrones especiales de IEEE 754]] 
+- [[Operaciones sobre flotantes en IEEE 754]]

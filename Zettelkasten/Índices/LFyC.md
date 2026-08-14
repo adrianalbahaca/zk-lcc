@@ -12,6 +12,7 @@
 - [[Autómatas de estado finito]]
 - [[Autómatas de Pila]]
 - [[Máquinas de Turing]]
+- [[Gramáticas]]
 # Referencias
 ---
 - [[]]

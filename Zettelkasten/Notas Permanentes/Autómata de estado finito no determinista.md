@@ -14,3 +14,4 @@ tags:
 Un *autómata de estado finito no determinista*, o *AEFND*, se difiere del AEFD ya que, para cada transición, se retorna un subconjunto de $S$ a donde puede seguirse al siguiente estado. Esto nos dice que, para procesar una palabra y verificar que pertenece a su lenguaje, *se tiene que elegir el camino adecuado para la palabra*
 ## Conexiones
 - [[Relación entre AEFD y AEFND]] 
+- 

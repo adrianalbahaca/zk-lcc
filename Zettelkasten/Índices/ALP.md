@@ -2,9 +2,11 @@
 # Notas principales
 ---
 - [[Sintáxis]]
-- [[Gramática libre de contexto]]
+- [[Gramática independiente del contexto]]
 - [[Árbol de parseo]]
 - [[Sintáxis abstracta]]
+- [[Parsers]]
+- [[Semántica Operacional]]
 # Referencias
 ---
 - [[Types and Programming Lanugajes de B.C. Pierce]]

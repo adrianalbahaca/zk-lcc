@@ -17,3 +17,8 @@ Desde el modelo *cliente-servidor* para las empresas, las comunicaciones *peer-t
 ## Conexiones
 - [[Redes de difusión]]
 - [[Redes punto a punto]]
+- [[Redes por su alcance]]
+- [[Jerarquía de Protocolos]]
+- [[Modelo de referencia OSI]]
+- [[Modelo de referencia TCP-IP]]
+- [[Modelo de referencia híbrido]]

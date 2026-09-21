@@ -20,3 +20,4 @@ Luego, las líneas conectan estos elementos entre sí
 - [[Entidad]]
 - [[Atributo]]
 - [[Relación]]
+- [[Claves]]

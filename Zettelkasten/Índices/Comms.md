@@ -2,10 +2,8 @@
 # Notas principales
 ---
 - [[Redes]]
-- [[Redes punto a punto]]
-- [[Redes de difusión]]
-- [[Redes por su alcance]]
-- [[Software de red]]
+- [[Capa física]]
+- [[Capa de enlace]]
 # Referencias
 ---
 # Parciales

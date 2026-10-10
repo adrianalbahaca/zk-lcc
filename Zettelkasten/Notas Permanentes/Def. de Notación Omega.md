@@ -8,5 +8,3 @@ Fecha de Creación: 05-03-2026
 Esta notación acota inferiormente a una función. Esto puede determinar el mejor caso posible
 ## Ideas conectadas
 ---
-## Referencias
----

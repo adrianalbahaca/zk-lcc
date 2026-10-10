@@ -4,7 +4,7 @@
 [[Def. de Notación O]]
 [[Def. de Notación Theta]]
 [[Def. de Notación Omega]]
-[[Notación Asintótica]]
+[[Análisis Asintótico]]
 [[Recurrencia]]
 [[Estructuras inmutables]]
 [[TAD]]

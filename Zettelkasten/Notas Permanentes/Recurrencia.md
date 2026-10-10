@@ -8,7 +8,7 @@ tags:
 # Concepto de recurrencia y utilidad
 ## La idea en una oración
 ---
-> La recurrencia es un lenguaje aplicado en algoritmos recursivos, del cual se puede aplicar varios métodos para obtener cotas de distintos ámbitos, como el Trabajo o el Span. Es muy útil para calcular tales cotas en algoritmos recursivos como el Merge Sort
+> Una recurrencia es una función que se define de forma recursiva. Esta va a ser la forma en la cual representaremos los costos de nuestros programas
 ## Desarrollo
 ---
 La *recurrencia* es una ecuación o desigualdad que describe una función en términos de su valor en entradas pequeñas. Solucionar una recurrencia implica obtener las cotas asintóticas $\Theta$, $O$ u $\Omega$ de la recurrencia en sí 

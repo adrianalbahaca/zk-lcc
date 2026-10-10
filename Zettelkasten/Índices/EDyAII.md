@@ -1,8 +1,8 @@
 # Materia: EDyAII
 # Notas principales
 ---
-[[Notación Asintótica]]
-[[Modelo de costo y pseudo-lenguaje a usar]]
+[[Análisis Asintótico]]
+[[Modelo de costo y paralelismo]]
 [[Recurrencia]]
 [[Haskell y uso en la materia]]
 [[Estructuras inmutables]]

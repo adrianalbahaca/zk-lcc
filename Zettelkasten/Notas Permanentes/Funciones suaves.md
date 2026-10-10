@@ -15,4 +15,5 @@ Una función *suave* tiene la característica de que no "salta" mucho entre iter
 Funciones así son más fáciles para determinar sus cotas asintóticas usando el *Teorema maestro* u otras herramientas, ya que permiten simplificar el piso y el techo
 ## Conexiones
 - [[Funciones eventualmente no decrecientes]]
+- [[Regla de suavidad]]
 - [[Teorema Maestro]]

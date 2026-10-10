@@ -1,7 +1,7 @@
 ---
 id: 202603121348
 fecha: 12-03-2026
-estado: borrador
+estado: completo
 tags:
   - EDyAII
 ---

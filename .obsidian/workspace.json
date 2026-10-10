@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Notas Permanentes/Recurrencia.md",
+                "file": "Zettelkasten/Notas Permanentes/Funciones suaves.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Recurrencia"
+              "title": "Funciones suaves"
             }
           },
           {
@@ -266,6 +266,7 @@
   },
   "active": "71a12b7b6e02dc7e",
   "lastOpenFiles": [
+    "Zettelkasten/Notas Permanentes/Recurrencia.md",
     "Zettelkasten/Índices/EDyAII.md",
     "Zettelkasten/Notas Permanentes/Modelo de costo y paralelismo.md",
     "Zettelkasten/Notas Permanentes/Análisis Asintótico.md",
@@ -291,7 +292,6 @@
     "Zettelkasten/Notas Permanentes/Pseudo-cabecera de UDP.md",
     "Zettelkasten/Notas Permanentes/Multiplexación con puertos en UDP.md",
     "Zettelkasten/Notas Permanentes/UDP o User Datagram Protocol.md",
-    "Zettelkasten/Notas Permanentes/Propiedades de confiabilidad en las comunicaciones.md",
     "4B",
     "Modelo de referencia TCP",
     "Canvas/Gráfico de relación de MT con otros lenguajes y sistemas.canvas",

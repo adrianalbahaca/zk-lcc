@@ -12,5 +12,10 @@ tags:
 ## Desarrollo
 ---
 Un ABB inmutable permite hacer la inserción y eliminación de un nodo de forma que nunca se pierda los datos
+
+Se puede considerar el tipo de árbol
+```haskell
+data ABB a = Empty | Node (ABB a) a (ABB a)
+```
 ## Conexiones
 - [[Árbol binario de búsqueda]] 

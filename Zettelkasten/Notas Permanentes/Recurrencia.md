@@ -11,10 +11,11 @@ tags:
 > Una recurrencia es una función que se define de forma recursiva. Esta va a ser la forma en la cual representaremos los costos de nuestros programas
 ## Desarrollo
 ---
-La *recurrencia* es una ecuación o desigualdad que describe una función en términos de su valor en entradas pequeñas. Solucionar una recurrencia implica obtener las cotas asintóticas $\Theta$, $O$ u $\Omega$ de la recurrencia en sí 
+La *recurrencia* es una ecuación o desigualdad que describe una función en términos de sí mismo. Solucionar una recurrencia implica obtener las cotas asintóticas $\Theta$, $O$ u $\Omega$ de la recurrencia en sí 
 ## Conexiones
 - [[Método de sustitución]] 
 - [[Árbol de recurrencia]]
 - [[Simplificaciones al resolver recurrencias]]
 - [[Funciones suaves]]
 - [[Teorema Maestro]]
+- [[Regla de suavidad]]

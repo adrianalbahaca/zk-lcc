@@ -11,6 +11,6 @@ tags:
 > Una función es *eventualmente no decreciente* si $\forall N \in \mathbb{N}, f(n) \le f(n+1), n \ge N$  
 ## Desarrollo
 ---
-(2-5 párrafos cuando tengas tiempo) 
+
 ## Conexiones
 - [[]] 

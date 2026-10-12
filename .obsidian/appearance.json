@@ -1,9 +1,9 @@
 {
-  "cssTheme": "Tokyo Night",
+  "cssTheme": "Minimal",
   "interfaceFontFamily": "",
   "textFontFamily": "Noto Sans",
   "nativeMenus": true,
   "monospaceFontFamily": "Monocraft",
   "theme": "obsidian",
-  "accentColor": "#5cf57b"
+  "accentColor": "#5c61f5"
 }

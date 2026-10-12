@@ -3,6 +3,7 @@ id: 202607221340
 fecha: 22-07-2026
 estado: borrador
 tags:
+  - EDyAII
 ---
 # Heaps inmutables
 ## La idea en una oración

@@ -17,5 +17,6 @@ Se puede considerar el tipo de árbol
 ```haskell
 data ABB a = Empty | Node (ABB a) a (ABB a)
 ```
+
 ## Conexiones
 - [[Árbol binario de búsqueda]] 

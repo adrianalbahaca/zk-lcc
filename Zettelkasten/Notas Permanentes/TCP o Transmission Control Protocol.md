@@ -25,3 +25,5 @@ Esta es una ***especificación*** del formato de datos, reconocimiento entre com
 - [[Control de flujo y verificación en TCP]]
 - [[ACK y retransmisión]]
 - [[Timeout y retransmisión]]
+- [[Manejo de congestión]]
+- [[Datos fuera de banda]]

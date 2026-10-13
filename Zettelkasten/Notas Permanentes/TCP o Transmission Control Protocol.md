@@ -27,3 +27,4 @@ Esta es una ***especificación*** del formato de datos, reconocimiento entre com
 - [[Timeout y retransmisión]]
 - [[Manejo de congestión]]
 - [[Datos fuera de banda]]
+- [[Establecer conexión y desconexión en TCP]]

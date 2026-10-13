@@ -1,9 +1,9 @@
 {
-  "cssTheme": "Minimal",
+  "cssTheme": "Typora-Vue",
   "interfaceFontFamily": "",
   "textFontFamily": "Noto Sans",
   "nativeMenus": true,
   "monospaceFontFamily": "Monocraft",
   "theme": "obsidian",
-  "accentColor": "#5c61f5"
+  "accentColor": ""
 }

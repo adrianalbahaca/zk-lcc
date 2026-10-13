@@ -36,8 +36,10 @@ merge h1@(N r1 a1 l1 r1) h2@(N r2 a2 l2 r2)
 	| otherwise = makeH r2 a2 (merge h1 r2)
 	where
 		makeH r a b =
-			if rank a > rank b then N (rank b + 1) r a b
+			if rank a >= rank b then N (rank b + 1) r a b
 			else N (rank a + 1) r b a
 ```
+
+Debido a que $W_{makeH} \in O(1)$, $W_{rank} \in O(1)$ y el largo de la espina derecha es a lo sumo logarítmica, $W_{merge} \in O(\log n)$ 
 ## Conexiones
 - [[Montículos]] 

@@ -16,6 +16,8 @@ Debido a la necesidad de un protocolo que sea agnóstico a la forma de detectar 
 Se crea el protocolo TCP el cual, para cumplir con las propiedades de confiabilidad, usa protocolos de confirmación en las interacciones para verificar que la información llegue completa y en orden, y dando una interfaz en caso de errores para la aplicación
 
 Esta es una ***especificación*** del formato de datos, reconocimiento entre computadoras, los procedimientos para la correcta recepción de datos, recuperación de errores y duplicación y handshake. La *implementación* se deja al programador del sistema operativo. Permite que las apps se comuniquen de forma *concurrente*
+
+Los estudios en Berkeley concluyen que, usando las múltiples estrategias que ofrece el servicio, en el Internet con capacidad de envío de 10Mbps, TCP usa 8Mbps para enviar los datos, pero qué pasa con los otros 2Mbps?...
 ## Conexiones
 - [[Propiedades de confiabilidad en las comunicaciones]] 
 - [[Reconocimiento positivo con retransmisión]]
@@ -28,3 +30,4 @@ Esta es una ***especificación*** del formato de datos, reconocimiento entre com
 - [[Manejo de congestión]]
 - [[Datos fuera de banda]]
 - [[Establecer conexión y desconexión en TCP]]
+- [[Síndrome de ventana boba]]

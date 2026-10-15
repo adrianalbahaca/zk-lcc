@@ -1,12 +1,16 @@
+---
+id: 202610151109
+fecha: 15-10-2026
+estado: pendiente
+tags:
+  - LFyC
+---
 # Teorema de Cantor - Bernstein - Schröder
-Tags: #LFyC
-Fecha de Creación: 05-03-2026
-# Nota
+## La idea en una oración
 ---
-> Sean dos conjuntos $A, \ B$, si tenemos que $A \preceq B$ y $B \preceq A$, entonces $A \sim B$ 
-
-Su demostración se basa en una función biyectiva basada en las funciones inyectivas de cada lado, donde se superponen $A, \ B$ una dentro de la otra de forma infinita
-## Ideas conectadas
+> El teorema de Cantor - Bernstein - Schröder nos dicta que, si se tiene dos funciones $f: A \rightarrow B$ y $g: B \rightarrow A$, entonces $|A| = |B|$
+## Desarrollo
 ---
-## Referencias
----
+ 
+## Conexiones
+- [[]] 

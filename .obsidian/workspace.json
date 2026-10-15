@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c650db12fdbc63ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Notas Permanentes/Capa de transporte.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Capa de transporte"
-            }
-          },
-          {
             "id": "9c45cc4038028a27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Notas Permanentes/TCP o Transmission Control Protocol.md",
+                "file": "Zettelkasten/Notas Permanentes/Teorema de Cantor - Bernstein - Schröder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TCP o Transmission Control Protocol"
+              "title": "Teorema de Cantor - Bernstein - Schröder"
             }
           },
           {
@@ -91,8 +77,7 @@
               "title": "Establecer conexión y desconexión en TCP"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -280,8 +265,10 @@
   },
   "active": "9c45cc4038028a27",
   "lastOpenFiles": [
-    "Zettelkasten/Notas Permanentes/Datos fuera de banda.md",
+    "Zettelkasten/Notas Permanentes/Erlang.md",
+    "Zettelkasten/Notas Permanentes/Teorema de Cantor - Bernstein - Schröder.md",
     "Zettelkasten/Notas Permanentes/TCP o Transmission Control Protocol.md",
+    "Zettelkasten/Notas Permanentes/Datos fuera de banda.md",
     "Zettelkasten/Notas Permanentes/Síndrome de ventana boba.md",
     "Zettelkasten/Notas Permanentes/Capa de transporte.md",
     "Zettelkasten/Notas Permanentes/Establecer conexión y desconexión en TCP.md",
@@ -305,8 +292,6 @@
     "Adjuntos/Pasted image 20261012160248.png",
     "Zettelkasten/Notas Permanentes/Simplificaciones al resolver recurrencias.md",
     "Zettelkasten/Notas Permanentes/Método de sustitución.md",
-    "Zettelkasten/Notas Permanentes/Manejo de congestión.md",
-    "Zettelkasten/Notas Permanentes/Inducción fuerte.md",
     "4B",
     "Modelo de referencia TCP",
     "Canvas/Gráfico de relación de MT con otros lenguajes y sistemas.canvas",

@@ -37,4 +37,4 @@ tad Cola(A:Set) where
 - [[Costo amortizado]] *Ver esto*
 - [[Paralelización en TADs]]
 - [[Implementación de TAD]]
-- [[Razonamiento sobre programas en Haskell]]
+- [[Razonamiento sobre programas]]

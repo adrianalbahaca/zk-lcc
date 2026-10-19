@@ -7,6 +7,8 @@
 [[Haskell y uso en la materia]]
 [[Estructuras inmutables]]
 [[Tipos abstractos de datos]]
+[[Razonamiento sobre programas]]
+[[Secuencias]]
 # Referencias
 ---
 [[Purely Functional Data Structures]] - Chris Okasaki

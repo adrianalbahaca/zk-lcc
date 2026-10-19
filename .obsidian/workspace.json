@@ -8,73 +8,101 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9c45cc4038028a27",
+            "id": "02823d4cb9fcebf9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Notas Permanentes/Teorema de Cantor - Bernstein - Schröder.md",
+                "file": "Zettelkasten/Índices/EDyAII.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teorema de Cantor - Bernstein - Schröder"
+              "title": "EDyAII"
             }
           },
           {
-            "id": "e1579ab210f47978",
+            "id": "05648c7dc78bcc8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Notas Permanentes/Datos fuera de banda.md",
+                "file": "Zettelkasten/Notas Permanentes/Modelos de costo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Datos fuera de banda"
+              "title": "Modelos de costo"
             }
           },
           {
-            "id": "f678256d915f6e9e",
+            "id": "2d3652344250f672",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Notas Permanentes/Síndrome de ventana boba.md",
+                "file": "Zettelkasten/Notas Permanentes/Relación entre Modelo de Costo y Paralelismo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Síndrome de ventana boba"
+              "title": "Relación entre Modelo de Costo y Paralelismo"
             }
           },
           {
-            "id": "80bf44b966230948",
+            "id": "a7534b49c0714997",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Notas Permanentes/TCP o Transmission Control Protocol.md",
+                "file": "Zettelkasten/Notas Permanentes/Paralelismo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TCP o Transmission Control Protocol"
+              "title": "Paralelismo"
             }
           },
           {
-            "id": "43044d6c283663c1",
+            "id": "4c57076c7670d2a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Notas Permanentes/Establecer conexión y desconexión en TCP.md",
+                "file": "Zettelkasten/Notas Permanentes/Tipos abstractos de datos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Establecer conexión y desconexión en TCP"
+              "title": "Tipos abstractos de datos"
+            }
+          },
+          {
+            "id": "456e83803a1b481d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Notas Permanentes/Principio de Brent.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Principio de Brent"
+            }
+          },
+          {
+            "id": "b8d9b2787b088236",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Notas Permanentes/Costo de Divide & Conquer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Costo de Divide & Conquer"
             }
           }
         ]
@@ -263,10 +291,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c45cc4038028a27",
+  "active": "02823d4cb9fcebf9",
   "lastOpenFiles": [
-    "Zettelkasten/Notas Permanentes/Erlang.md",
+    "Zettelkasten/Notas Permanentes/Modelos de costo.md",
+    "Zettelkasten/Notas Permanentes/Relación entre Modelo de Costo y Paralelismo.md",
+    "Zettelkasten/Notas Permanentes/Paralelismo.md",
+    "Zettelkasten/Notas Permanentes/Tipos abstractos de datos.md",
+    "Zettelkasten/Notas Permanentes/Scheduler.md",
+    "Zettelkasten/Índices/EDyAII.md",
+    "Zettelkasten/Notas Permanentes/Análisis Asintótico.md",
+    "Zettelkasten/Notas Permanentes/Principio de Brent.md",
+    "Zettelkasten/Notas Permanentes/Costo de Divide & Conquer.md",
+    "Zettelkasten/Notas Permanentes/Cardinalidad.md",
+    "Zettelkasten/Índices/LFyC.md",
     "Zettelkasten/Notas Permanentes/Teorema de Cantor - Bernstein - Schröder.md",
+    "Zettelkasten/Notas Permanentes/Erlang.md",
     "Zettelkasten/Notas Permanentes/TCP o Transmission Control Protocol.md",
     "Zettelkasten/Notas Permanentes/Datos fuera de banda.md",
     "Zettelkasten/Notas Permanentes/Síndrome de ventana boba.md",
@@ -280,18 +319,7 @@
     "Zettelkasten/Notas Permanentes/Inmutabilidad en Heaps.md",
     "Zettelkasten/Notas Permanentes/Skew Heap.md",
     "Zettelkasten/Notas Permanentes/Estructuras inmutables.md",
-    "Zettelkasten/Notas Permanentes/Inmutabilidad en Red-Black Trees.md",
-    "Zettelkasten/Notas Permanentes/Inmutabilidad en ABBs.md",
-    "Zettelkasten/Índices/EDyAII.md",
-    "Zettelkasten/Notas Permanentes/Haskell y uso en la materia.md",
-    "Zettelkasten/Notas Permanentes/Recurrencia.md",
-    "Zettelkasten/Notas Permanentes/Funciones suaves.md",
-    "Zettelkasten/Notas Permanentes/Funciones eventualmente no decrecientes.md",
-    "Zettelkasten/Notas Permanentes/Teorema Maestro.md",
-    "Zettelkasten/Notas Permanentes/Árbol de recurrencia.md",
     "Adjuntos/Pasted image 20261012160248.png",
-    "Zettelkasten/Notas Permanentes/Simplificaciones al resolver recurrencias.md",
-    "Zettelkasten/Notas Permanentes/Método de sustitución.md",
     "4B",
     "Modelo de referencia TCP",
     "Canvas/Gráfico de relación de MT con otros lenguajes y sistemas.canvas",

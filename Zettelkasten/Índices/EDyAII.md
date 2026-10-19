@@ -2,7 +2,7 @@
 # Notas principales
 ---
 [[Análisis Asintótico]]
-[[Modelo de costo y paralelismo]]
+[[Modelos de costo]]
 [[Recurrencia]]
 [[Haskell y uso en la materia]]
 [[Estructuras inmutables]]

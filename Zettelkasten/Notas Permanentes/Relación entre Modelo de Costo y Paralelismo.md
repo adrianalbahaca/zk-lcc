@@ -13,16 +13,18 @@ tags:
 ---
 Para analizar un programa, nos enfocaremos en dos modelos de costo: El trabajo ($W$), y la profundidad ($S$)
 
-Ahora, considere la definición de paralelismo $P = {{W}\over{S}}$
-Este mide cuantos procesadores se pueden usar en un programa
+Ahora, considere la definición de paralelismo $P = {{W}\over{S}}$. Este mide cuantos procesadores se pueden usar en un programa
+
 Asumiendo un Scheduler voraz y baja latencia de comunicación entre componentes, se cumple el *Principio de Brent*, donde:
+
 $$
 T \le {{W}\over{p}} + S = {{W}\over{p}} + {{W}\over{S}} = {{W}\over{p}} (1 + {{p} \over {P}})
 $$
+
 Entonces, si $P \rightarrow \infty$, tenemos que ${{p}\over{P}} \rightarrow 0$, dando una cota de tiempo óptima
 
 Nuestro objetivo es claro: **Buscamos que nuestros algoritmos sean lo más paralelizables posibles** 
 ## Conexiones
-- [[Modelo de trabajo]]
-- [[Modelo de profundidad]]
-- [[Cotas de Divide and Conquer]]
+- [[Modelos de costo]]
+- [[Costo de Divide & Conquer]]
+- [[Paralelismo]]

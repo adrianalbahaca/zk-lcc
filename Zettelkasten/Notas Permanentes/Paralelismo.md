@@ -12,8 +12,13 @@ tags:
 > El paralelismo es una estrategia de programación donde se hacen dos tareas al mismo tiempo, de forma independiente 
 ## Desarrollo
 ---
-El paralelismo es una herramienta que se puede hacer para varios algoritmos y estructuras. Por ejemplo, el *Merge Sort* 
+El paralelismo toma ventaja de los múltiples procesadores en un CPU para hacer varias tareas en simultáneo. El mismo se guía por la fórmula siguiente:
 
-Se puede medir a través de la profundidad del algoritmo
+$$
+P = {{W}\over{S}}
+$$
+
+Donde $W$ es el trabajo y $S$ la profundidad
 ## Conexiones
-- [[Merge Sort]] 
+- [[Relación entre Modelo de Costo y Paralelismo]]
+- [[Scheduler]]

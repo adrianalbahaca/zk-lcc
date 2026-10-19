@@ -21,3 +21,6 @@ Tome en cuenta que cada notación delimita un conjunto de funciones que están e
 - [[Def. de Notación Theta]]
 - [[Def. de Notación Omega]]
 - [[Criterio de Límite para notación asintótica]]
+- [[Costo de Divide & Conquer]]
+- [[Paralelismo]]
+- 

@@ -5,23 +5,20 @@ estado: borrador
 tags:
   - EDyAII
 ---
-# Def. y utilidad de los tipos abstractos de datos
+# Tipos Abstracto de Datos o TADs
 ## La idea en una oración
 ---
-> Un tipo abstracto de dato abstrae las operaciones e invariantes sobre las que se define una estructura, donde el usuario sólo interactúa con tal abstracción
+> Un TAD se encarga de abstraer el comportamiento de una estructura de datos de la implementación a través de una *especificación*
 ## Desarrollo
 ---
 Si tenemos a la cola, tenemos una serie de operaciones sobre ellas con ciertas invariantes. Definirla así es una definición es *abstracta*, refleja como se comporta, no cómo se implementa
 
-Nuestra idea es *abstraer* detalles de la implementación, donde el usuario sólo usa la abstracción, y el implementador se asegura de que la interfaz cumple con las condiciones necesarias. Es como un contrato
+Ese es nuestro objetivo con un **Tipo Abstracto de Datos**, o *TAD*. Queremos abstraer los detalles de la implementación, y definir el comportamiento tal que no dependa del mismo. Así, modulamos el trabajo y las responsabilidades entre usuario e implementador
+- El usuario sólo usará la abstracción, y sólo puede asumir el comportamiento definido en la misma. Sin embargo, no necesariamente debe saber la implementación
+- El implementador se compromete a que su implementación cumpla con el comportamiento descripto. Tiene la libertad de implementar como quiera siempre y cuando lo que haga cumpla la *especificación*. En casos de comportamiento no descripto, se le da la libertad de que haga lo que quiera
 
-**El usuario sólo puede suponer el comportamiento descripto**
+Un TAD se compone de su nombre (`Cola` en este caso), sus operaciones y su *especificación*, o mejor dicho, cómo se comporta el TAD. Por ejemplo:
 
-Consiste de un nombre, las operaciones sobre las que se define y la especificación del comportamiento del *TAD*, que puede ser *algebraica*, o sobre ecuaciones, o mediante *modelos*, donde se usa un modelo matemático
-
-Los costos de cada implementación varían, y tendrá su facilidad o dificultad de paralelizar
-
-Ejemplo de definición de una Cola como un *TAD*:
 ```Haskell
 tad Cola(A:Set) where
 	import Bool
@@ -30,6 +27,12 @@ tad Cola(A:Set) where
 	dequeue : Cola A -> Cola A
 	peek : Cola A -> A
 	isEmpty : Cola A -> Bool
+
+-- Nótese que la política FIFO es *implícita* en las ecuaciones definidas
+dequeue (queue x empty) = empty
+dequeue (queue y (queue x q)) = dequeue x q
+peek (queue x empty) = x
+peek (queue y (queue x q)) = peek x q
 ```
 ## Conexiones
 - [[Especificaciones de un TAD]]

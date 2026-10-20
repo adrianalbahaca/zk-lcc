@@ -1,19 +1,22 @@
 ---
 id: 202605131738
 fecha: 13-05-2026
-estado: pendiente
+estado: completo
 tags:
   - EDyAII
 ---
-# Título de la idea (en forma de afirmación) 
+# Implementar un TAD
 ## La idea en una oración
 ---
-> 
+> Todo TAD tiene múltiples implementación, y para cada una se le debe dar una *especificación de costo*
 ## Desarrollo
 ---
-En Haskell, es preferible implementar con `class` o con `instance`. También se puede usar los TAD de forma *polimórfica*, pero la función que la use no puede asumir nada de la implementación
+Después de obtener una especificación, toca que el implementador cree estructura de datos para dar una implementación que se comporte como lo especificado
 
-Cada implementación debe tener una especificación de costo
+>[!tip] Punto importante
+> Todo TAD tiene múltiples implementaciones y todas son válidas. Depende de qué costos se quiera para saber cuál implementación usar sobre las otras
+
+En Haskell, es preferible implementar con `class` o con `instance`. También se puede usar los TAD de forma *polimórfica*, permitiendo que la función que la use no pueda asumir nada de la implementación
 ## Conexiones
 - [[Polimorfismo]] 
 - [[Especificación de costo]]

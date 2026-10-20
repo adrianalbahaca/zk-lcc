@@ -1,7 +1,7 @@
 ---
 id: 202605131649
 fecha: 13-05-2026
-estado: borrador
+estado: completo
 tags:
   - EDyAII
 ---
@@ -11,7 +11,7 @@ tags:
 > Un TAD se encarga de abstraer el comportamiento de una estructura de datos de la implementación a través de una *especificación*
 ## Desarrollo
 ---
-Si tenemos a la cola, tenemos una serie de operaciones sobre ellas con ciertas invariantes. Definirla así es una definición es *abstracta*, refleja como se comporta, no cómo se implementa
+Si tenemos a la cola, tenemos una serie de operaciones sobre ellas con ciertas invariantes. Una definición de este estilo es *abstracta*, ya que refleja cómo se comporta pero no cómo se implementa
 
 Ese es nuestro objetivo con un **Tipo Abstracto de Datos**, o *TAD*. Queremos abstraer los detalles de la implementación, y definir el comportamiento tal que no dependa del mismo. Así, modulamos el trabajo y las responsabilidades entre usuario e implementador
 - El usuario sólo usará la abstracción, y sólo puede asumir el comportamiento definido en la misma. Sin embargo, no necesariamente debe saber la implementación

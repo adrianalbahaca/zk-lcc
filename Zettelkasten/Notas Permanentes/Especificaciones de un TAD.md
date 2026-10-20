@@ -1,11 +1,11 @@
 ---
 id: 202605131659
 fecha: 13-05-2026
-estado: borrador
+estado: completo
 tags:
   - EDyAII
 ---
-# Def. de especificación
+# Especificación del TAD
 ## La idea en una oración
 ---
 > La especificación dicta qué devuelve cada operación según cómo se construyó el TAD
@@ -22,6 +22,6 @@ $$
 [op \, c] = [op][c]
 $$
 > [!error] Atención
- ***No confundas especificación con implementación.*** No puedes asumir nada de cómo es la estructura en sí. Sólo sabes como se comporta y ya
+ ***No confundas especificación con implementación.*** No puedes asumir nada de cómo es la estructura en sí (un set ordenado puede no ser una lista o arreglo ordenado. Una cola puede implementarse de otra forma que no sea una lista simple). Sólo sabes como se comporta y ya
 ## Conexiones
 - [[Especificación de costo]] 

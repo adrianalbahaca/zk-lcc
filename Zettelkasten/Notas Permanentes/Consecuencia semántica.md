@@ -25,7 +25,7 @@ $$
 \end{align*}
 $$
 ## Conexiones
-- [[Teorema de Soundess]]
+- [[Teorema de Soundness]]
 - [[Teorema de Correctitud]]
 - [[Tautología]]
 - [[Contradicción]]

@@ -5,7 +5,7 @@ estado: borrador
 tags:
   - EDyAII
 ---
-# 
+# Inducción estructural
 ## La idea en una oración
 ---
 > Para usar ind. estructural sobre un TAD, se demuestra sobre los constructores no recursivos, y después se demuestra sobre los casos recursivos, asumiendo válido el paso anterior

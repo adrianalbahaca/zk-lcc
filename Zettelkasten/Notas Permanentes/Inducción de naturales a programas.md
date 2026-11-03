@@ -1,7 +1,7 @@
 ---
 id: 202605131809
 fecha: 13-05-2026
-estado: pendiente
+estado: completo
 tags:
   - EDyAII
 ---
